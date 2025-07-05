@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore backup/temp files
+*~
+*.bak
